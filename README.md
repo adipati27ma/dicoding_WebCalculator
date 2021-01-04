@@ -1,4 +1,4 @@
-# dicoding_WebCalculator
+# Online Web Calculator
 Example Project on Dicoding Course (Basic Front End)
 
 Download the source code & open *index.html* to run the application
