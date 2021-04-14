@@ -1,7 +1,7 @@
 # Online Web Calculator
 Example Project on Dicoding Course (Basic Front End)
 
-Download the source code (zip) & open *index.html* to run the application
+Download the source code (zip) & simple open *index.html* to run the application
 
 or
 
